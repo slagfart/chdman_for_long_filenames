@@ -1,4 +1,4 @@
-# chdman_for_long_filenames
+# chdman for long filenames
 CHDMAN batch file for windows that handles long file names.
 
 ## Instructions:
